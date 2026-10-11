@@ -65,4 +65,4 @@ python communication.py
 ---
 
 ## ⚠️ Safety Warning
-**Risk of Lockout Loop:** If the script runs automatically at startup with incorrect configurations, you could trigger a continuous system lockout loop. If this occurs, restart your computer in **Safe Mode** or unplug the USB link to terminate the execution loop.
+**Risk of Lockout Loop:** If the script runs automatically at startup with incorrect configurations, you could trigger a continuous system lockout loop. If this occurs, restart your computer or unplug the USB link to terminate the execution loop.
